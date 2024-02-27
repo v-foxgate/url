@@ -1,4 +1,5 @@
 work.local
+wpad.work.local
 skybank.pro
 pumb.ua
 www.pumb.ua
