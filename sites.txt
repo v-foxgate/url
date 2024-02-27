@@ -1,2 +1,3 @@
-skybank.pro
 work.local
+skybank.pro
+pumb.ua
