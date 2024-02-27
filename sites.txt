@@ -1,1 +1,2 @@
 skybank.pro
+work.local
